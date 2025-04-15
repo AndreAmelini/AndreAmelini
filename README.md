@@ -3,10 +3,9 @@
 - 🔭 Atualmente estou curnsando ADS(Analise e Desenvolvimento de sistemas)
 - 📫 Contate-me no E-mail:andreamelini2006@gmail.com
 - 😄 Pronomes:Ele/Dele
-- ⚡ Fun fact: ...
---> 💬 Sobre mim:Sou uma pessoa proativa, com facilidade para trabalhar em equipa e criar um ambiente harmonioso.
-  Tenho uma comunicação clara, sou educado, simpático e sempre disposto a ajudar,Valorizo o respeito e a boa convivência no ambiente de trabalho
-Estou sempre em busca de novos conhecimentos e formas de evoluir. Acredito que o desenvolvimento contínuo é essencial para alcançar bons resultados.
+- 💬 Sobre mim:Sou uma pessoa proativa, com facilidade para trabalhar em equipa e criar um ambiente harmonioso.
+     Tenho uma comunicação clara, sou educado, simpático e sempre disposto a ajudar,Valorizo o respeito e a boa convivência no ambiente de trabalho
+     Estou sempre em busca de novos conhecimentos e formas de evoluir. Acredito que o desenvolvimento contínuo é essencial para alcançar bons resultados.
 
 <div>
   <a href="https://github.com/AndreAmelini">
